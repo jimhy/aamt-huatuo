@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1659451035
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hotupdatedlls
+      Dependencies: {}
+    Info_1:
+      Name: game
+      Dependencies: {}
